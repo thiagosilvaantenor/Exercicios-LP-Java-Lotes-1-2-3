@@ -26,10 +26,7 @@ O lote 3 são exercícios que utilizam vetores e matrizes.
 * [Autor](#autor)
 
 ## Status do projeto
-🚧 Em construção 🚧
-
-Faltam:
-- Finalizar o exercício final do lote 3
+✅ Finalizado ✅
 
 ## Exercícios
 <hr>
