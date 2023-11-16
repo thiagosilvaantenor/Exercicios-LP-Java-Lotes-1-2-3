@@ -10,7 +10,7 @@ Exercícios em Java da materia de Linguagem de Programação, do curso de Análi
 
 Dos exercícios 1 ao 17 é utilizado estrutura sequencial, do 18 ao 29 é utilizado estrutura de decisão, do 30 ao 45 estrutura de repetição.
 
-Após os 45 exercícios iniciais eu modularizei do exercício 31 ao 45.
+Após os 45 exercícios iniciais eu modularizei do exercício 17 ao 45.
 
 O lote 2 são exercícios que utilizam recursividade.
 
@@ -29,9 +29,7 @@ O lote 3 são exercícios que utilizam vetores e matrizes.
 🚧 Em construção 🚧
 
 Faltam:
-- O exercicio final do lote 3
-- Refatorar e organizar os exercicios utilizando pacotes
-
+- Finalizar o exercício final do lote 3
 
 ## Exercícios
 <hr>
